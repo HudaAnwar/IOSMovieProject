@@ -1,0 +1,6 @@
+framework module Pods_MoviesAppWithCDTests {
+  umbrella header "Pods-MoviesAppWithCDTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

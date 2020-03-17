@@ -1,0 +1,6 @@
+framework module Pods_MoviesAppWithCD_MoviesAppWithCDUITests {
+  umbrella header "Pods-MoviesAppWithCD-MoviesAppWithCDUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

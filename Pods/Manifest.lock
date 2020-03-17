@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BTNavigationDropdownMenu (0.5)
+  - Cosmos (21.0.0)
+  - FaveButton (3.2.1)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftyJSON (5.0.0)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - BTNavigationDropdownMenu
+  - Cosmos
+  - FaveButton
+  - SDWebImage
+  - SwiftyJSON
+  - youtube-ios-player-helper (~> 0.1.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BTNavigationDropdownMenu
+    - Cosmos
+    - FaveButton
+    - SDWebImage
+    - SwiftyJSON
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  FaveButton: 93cfebf6030336fa7653fad2068c3152ed668b39
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 96a296c9e1caf52243638f682dad50f455d1d877
+
+COCOAPODS: 1.8.4
